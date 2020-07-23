@@ -1,3 +1,8 @@
+! Issue: Please remove tssuites.com from all of your hosts lists. Nothing wrong with that domain.
+! Issue: It's a hotel at Bali and all good. Please contact as at prakasita.wigati@townsquare.co.id CC rsvp.seminyak@tssuites.co.id
+! Issue: Domain tssuites.com
+tssuites.com
+
 192.168.0.1
 192.168.0.196
 about-scheme
