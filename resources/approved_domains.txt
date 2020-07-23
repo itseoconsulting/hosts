@@ -1,3 +1,7 @@
+! Issue: Please reomve tssuites.com from all of your blacklistes. This is a ordinary hotel domain at Bali, and nothing is wrong. It's a
+! Issue: false positive. I added the domain below. Please contact us at rsvp.seminyak@tssuites.co.id CC prakasita.wigati@townsquare.co.id thank you!
+tssuites.com
+
 192.168.0.1
 192.168.0.196
 about-scheme
